@@ -1,5 +1,3 @@
-# SMAI-Project-Sparsemax
-
 SMAI Project
 =============
 
